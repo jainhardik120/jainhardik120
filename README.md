@@ -1,5 +1,11 @@
 ### Hi there 👋
 
+# About Me
+
+- 🔭 I’m currently working on **Macro Keyboard Android App**
+- 🌱 I’m currently learning **Android Development**
+- 📫 How to reach me: .**jainhardik120@gmail.com**
+
 <!--
 **jainhardik120/jainhardik120** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
