@@ -1,13 +1,7 @@
 <h1 align="center">Hi 👋, I'm Hardik Jain</h1>
 <h3 align="center">Android and Web Developer from India</h3>
 
-- 🔭 I’m currently working on [TaleVista](https://play.google.com/store/apps/details?id=com.jainhardik120.talevista)
-
-- 🌱 I’m currently learning **ReactJS, Jetpack Compose**
-
-- 👨‍💻 All of my projects are available at [https://hardik-jain.netlify.app/](https://hardik-jain.netlify.app/)
-
-- 📝 I regularly write articles on [https://hardik-jain.netlify.app/blog](https://hardik-jain.netlify.app/blog)
+- 🌱 I’m currently learning **ReactJS, Jetpack Compose, Solidity**
 
 - 💬 Ask me about **Kotlin, Jetpack Compose**
 
@@ -18,14 +12,8 @@
 <a href="https://dev.to/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jainhardik120" height="30" width="40" /></a>
 <a href="https://twitter.com/jainhardik17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jainhardik17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainhardik120" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/20213914" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="20213914" height="30" width="40" /></a>
 <a href="https://instagram.com/_.hardikj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hardikj" height="30" width="40" /></a>
-<a href="https://www.codechef.com/users/jainhardik120" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.1.0/icons/codechef.svg" alt="jainhardik120" height="30" width="40" /></a>
-<a href="https://www.hackerrank.com/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerrank.svg" alt="jainhardik120" height="30" width="40" /></a>
-<a href="https://codeforces.com/profile/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codeforces.svg" alt="jainhardik120" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainhardik120" height="30" width="40" /></a>
-<a href="https://www.hackerearth.com/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hackerearth.svg" alt="jainhardik120" height="30" width="40" /></a>
-<a href="https://auth.geeksforgeeks.org/user/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/geeks-for-geeks.svg" alt="jainhardik120" height="30" width="40" /></a>
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
