@@ -5,6 +5,8 @@
 - 💬 Ask me about **Kotlin, Jetpack Compose**
 - 📫 How to reach me **jainhardik120@gmail.com**
 
+### [Download Resume/CV](https://raw.githubusercontent.com/jainhardik120/jainhardik120/main/Hardik%20Jain.pdf)
+
 ### Connect with me:
 <p align="left">
 <a href="https://dev.to/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jainhardik120" height="30" width="40" /></a>
