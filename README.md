@@ -10,7 +10,7 @@
 ### Connect with me:
 <p align="left">
 <a href="https://dev.to/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/devto.svg" alt="jainhardik120" height="30" width="40" /></a>
-<a href="https://x.com/jainhardik17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jainhardik17" height="30" width="40" /></a>
+<a href="https://twitter.com/jainhardik17" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="jainhardik17" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="jainhardik120" height="30" width="40" /></a>
 <a href="https://instagram.com/_.hardikj" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="_.hardikj" height="30" width="40" /></a>
 <a href="https://www.leetcode.com/jainhardik120" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="jainhardik120" height="30" width="40" /></a>
